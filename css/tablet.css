@@ -1,0 +1,11 @@
+.main-tables-container {
+    display: flex;
+    width: 1000px;
+    margin: 0 auto;
+}
+  .product-cards--container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 1000px;
+    margin: 0 auto;
+}
