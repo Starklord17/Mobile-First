@@ -1,2 +1,2 @@
-# mobilefirst.github.io
+# https://maxmobilefirst.netlify.app/
 Responsive Design - Mobile First
